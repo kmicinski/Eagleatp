@@ -1,0 +1,23 @@
+The Eagle Logic System / ATP
+Kristopher Micinski, 2007.
+----------------------------
+
+This is the Eagle, a simple Logic system and Automated Theorem
+prover for first order logic. This directory contains much of the
+source for the current branch of Eagle in development.
+
+Eagle started in 2006 as a simple prover for first order logic
+and was written entirely in C. I (Kris Micinski) Never released
+The 0.1.0 or 0.2.0 versions of the system. Currently Eagle is
+being rewritten in SML and is in 0.3.0, which includes a much
+more flexible logic system, as well as allowing multiple styles
+of proof. This allows for proof by hand, e.g. Sequent calculi,
+as well as more automated proofs.
+
+Using The Eagle Logic System
+----------------------------
+
+
+
+Versions -
+0.3.0 - First write of Eagle in SML. Currently under development
